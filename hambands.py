@@ -5,7 +5,6 @@ Based on C code written by Mike Markowski AB3AP
 #!/usr/bin/python3
 
 import argparse
-from decimal import *
 
 parser = argparse.ArgumentParser(
 		description='Simple calculations of half wavelengths of ham bands')
